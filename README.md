@@ -5,3 +5,5 @@ Background of the application changes based on temperature of the region.
 Screenshots of the application can be found in Screenshots_of_application folder.
 
 Credit of tutorial goes to: Tyler Potts
+
+Just a change
